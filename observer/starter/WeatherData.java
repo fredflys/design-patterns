@@ -1,8 +1,8 @@
-package observer.example;
+package observer.starter;
 
-import observer.example.DisplayDevices.CurrentConditionsDIsplay;
-import observer.example.DisplayDevices.ForecastDisplay;
-import observer.example.DisplayDevices.StatisticsDisplay;
+import observer.starter.DisplayDevices.CurrentConditionsDIsplay;
+import observer.starter.DisplayDevices.ForecastDisplay;
+import observer.starter.DisplayDevices.StatisticsDisplay;
 
 public class WeatherData {
     // declare instance variables for all devices

@@ -1,4 +1,4 @@
-package observer.example.DisplayDevices;
+package observer.starter.DisplayDevices;
 
 public class StatisticsDisplay extends DisplayDevice{
     
