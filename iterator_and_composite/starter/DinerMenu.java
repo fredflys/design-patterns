@@ -1,6 +1,6 @@
 package iterator_and_composite.starter;
 
-import iterator_and_composite.ArrayMenuIterator;
+import iterator_and_composite.iterator.ArrayMenuIterator;
 
 public class DinerMenu implements Menu {
     static final int MAX_ITEMS = 10;
@@ -27,7 +27,7 @@ public class DinerMenu implements Menu {
     }
 
     // refactoring
-    public iterator_and_composite.Iterator iterate() {
+    public iterator_and_composite.iterator.Iterator iterate() {
         return new ArrayMenuIterator(menuItems);
     }
 }

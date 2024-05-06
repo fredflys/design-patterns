@@ -1,4 +1,4 @@
-package iterator_and_composite;
+package iterator_and_composite.iterator;
 
 import java.util.ArrayList;
 import java.util.Collection;

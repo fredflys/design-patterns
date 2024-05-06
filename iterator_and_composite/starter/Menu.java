@@ -1,6 +1,6 @@
 package iterator_and_composite.starter;
 
-import iterator_and_composite.Iterator;
+import iterator_and_composite.iterator.Iterator;
 
 public interface Menu {
     public Iterator iterate();

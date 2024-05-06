@@ -3,8 +3,8 @@ package iterator_and_composite.starter;
 import java.util.ArrayList;
 import java.util.List;
 
-import iterator_and_composite.ListMenuIterator;
-import iterator_and_composite.Iterator;
+import iterator_and_composite.iterator.Iterator;
+import iterator_and_composite.iterator.ListMenuIterator;
 
 public class BreakfastMenu implements Menu{
     // menu representation: ArrayList

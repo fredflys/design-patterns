@@ -3,8 +3,8 @@ package iterator_and_composite.starter;
 import java.util.HashMap;
 import java.util.Map;
 
-import iterator_and_composite.Iterator;
-import iterator_and_composite.ListMenuIterator;
+import iterator_and_composite.iterator.Iterator;
+import iterator_and_composite.iterator.ListMenuIterator;
 
 public class CafeMenu implements Menu {
     Map<String, MenuItem> menuItems = new HashMap<>();
